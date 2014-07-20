@@ -1,0 +1,62 @@
+#wccv-full {
+	width:1000px;}
+#wccv-in {
+	float:left;
+	background:#fff;
+	width:300px;
+	padding:10px;
+	margin:10px 10px 10px 0px;
+	text-align:left;}
+#wccv-arrow {
+	float:left;
+	width:60px;
+	padding:220px 0px 10px 0px;
+	font-size:32px;
+	margin:10px 10px 10px 10px;
+	text-align:center;}
+#wccv-out {
+	float:left;
+	background:#fff;
+	width:300px;
+	padding:10px;
+	margin:10px 10px 10px 10px;
+	text-align:left;}
+/* #wccv-submit {
+	clear:left;
+	background:#fff;
+	width:720px;
+	padding:10px;
+	margin:10px 10px 10px 0px;
+	text-align:center;} */
+#wccv-list {
+	float:right;
+	background:#fff;
+	font-size:9px;
+	width:200px;
+	padding:10px;
+	margin:10px 10px 10px 10px;
+	text-align:left;}
+	
+#wccv-in-image, #wccv-out-image {
+	background:#ddd;
+	margin:10px auto 10px auto;
+	width:150px;
+	height:150px;}	
+#wccv-in-report, #wccv-out-report {
+	border-top:solid 1px #bbb;
+	background:#fff;
+	font-size:9px;
+	text-align:left;
+	padding-top:10px;
+	margin:10px;
+	min-height:150px;}
+#wccv-list p {
+	font-size:10px;}
+#wccv-list p.wccv-list-title {
+	font-size:13px;}
+#wccv-list p.wccv-product-category:hover {
+	color:#298CBA;}
+	
+.wccv-input {
+	margin:0px 10px 10px 50px;}
+
