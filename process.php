@@ -170,7 +170,7 @@
 				);
 			
 				// Get the id of that inserted row
-				$new_id = mysql_insert_id();
+				$new_id = $wpdb->insert_id;
 				
 				// Update the following value to include the id
 				$post_title = "Variation #" . $new_id . " of " . $post_to_edit->post_title; //slug: has format of "Variation #(inserted_id) of (parent_title)"
